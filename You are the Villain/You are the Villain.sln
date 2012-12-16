@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "You are the Villain", "You are the Villain\You are the Villain\You are the Villain.csproj", "{FB889F74-9094-4B92-BFB1-BE41E066A9EF}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "You are the VillainContent", "You are the Villain\You are the VillainContent\You are the VillainContent.contentproj", "{19AA096D-650A-4AA3-B954-DDC6AAA25027}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary", "GameLibrary\GameLibrary.csproj", "{335917D0-F274-411D-8E2E-4384DF5BC4F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB889F74-9094-4B92-BFB1-BE41E066A9EF}.Debug|x86.ActiveCfg = Debug|x86
+		{FB889F74-9094-4B92-BFB1-BE41E066A9EF}.Debug|x86.Build.0 = Debug|x86
+		{FB889F74-9094-4B92-BFB1-BE41E066A9EF}.Release|x86.ActiveCfg = Release|x86
+		{FB889F74-9094-4B92-BFB1-BE41E066A9EF}.Release|x86.Build.0 = Release|x86
+		{19AA096D-650A-4AA3-B954-DDC6AAA25027}.Debug|x86.ActiveCfg = Debug|x86
+		{19AA096D-650A-4AA3-B954-DDC6AAA25027}.Release|x86.ActiveCfg = Release|x86
+		{335917D0-F274-411D-8E2E-4384DF5BC4F9}.Debug|x86.ActiveCfg = Debug|x86
+		{335917D0-F274-411D-8E2E-4384DF5BC4F9}.Debug|x86.Build.0 = Debug|x86
+		{335917D0-F274-411D-8E2E-4384DF5BC4F9}.Release|x86.ActiveCfg = Release|x86
+		{335917D0-F274-411D-8E2E-4384DF5BC4F9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
